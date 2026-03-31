@@ -3,7 +3,7 @@
 Preliminary and Final Round submission for the **Data Analysis Competition (DAC)** at **Informatics Festival (IFest) 2024**, organized by Universitas Padjadjaran.
 
 🏆 **Achievement:** 2nd Place  
-👥 **Team:** Sudah Saatnya (Statistics UGM – Class of 2022)
+👥 **Team:** Sudah Saatnya (Teammates: Erlin Shofiana & Fitri Hartanti)
 
 ---
 
